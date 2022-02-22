@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>110919031</Text>
-      <Text>陳品璇:)</Text>
+      <Text>陳品璇:) happy</Text>
       <StatusBar style="auto"/>
     </View>
   );
